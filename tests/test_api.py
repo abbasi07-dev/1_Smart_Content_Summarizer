@@ -2,6 +2,11 @@
 API tests for Smart Summarizer
 Run with: poetry run pytest
 """
+import sys
+from pathlib import Path
+# Add the project root to Python path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 import pytest
 from fastapi.testclient import TestClient
 from src.app import app
