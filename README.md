@@ -107,7 +107,7 @@ MIT License - feel free to use in your projects!
 
 ## Author
 
-[Your Name] - [Your GitHub Profile]
+Muhammad Abbas Abbasi - https://github.com/abbasi07-dev
 
 ---
 
